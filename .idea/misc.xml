@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppMoviles/Entrega3/ProyectoFinalApp40Maps/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AppMoviles/Entrega3/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_activity.xml" value="0.23697916666666666" />
+        <entry key="..\:/AppMoviles/Entrega3/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_fragment.xml" value="0.2234375" />
+        <entry key="..\:/AppMoviles/Entrega3/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_map_fragment.xml" value="0.33" />
+        <entry key="..\:/AppMoviles/Entrega3/ProyectoFinalApp40Maps/app/src/main/res/layout/passenger_map_fragment.xml" value="0.16510416666666666" />
+        <entry key="..\:/AppMoviles/Jaxi/ProyectoFinalApp40Maps/app/src/main/res/layout/comments_add_fragment.xml" value="0.33" />
+        <entry key="..\:/AppMoviles/Jaxi/ProyectoFinalApp40Maps/app/src/main/res/layout/comments_fragment.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Jaxi/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_fragment.xml" value="0.16145833333333334" />
+        <entry key="..\:/AppMoviles/Jaxi/ProyectoFinalApp40Maps/app/src/main/res/layout/passenger_fragment.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/activity_main.xml" value="0.15520833333333334" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/app_bar_main.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/comments_fragment.xml" value="0.25" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/conductor_activity.xml" value="0.2969187675070028" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/conductor_fragment.xml" value="0.22" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/content_main.xml" value="0.309375" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/content_prueba.xml" value="0.2557291666666667" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/driver_fragment.xml" value="0.25" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/driver_map_fragment.xml" value="0.17447916666666666" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_blank_fragmsssent.xml" value="0.2557291666666667" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_calificaciones.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_calificaciones2.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_conductor_fragment.xml" value="0.1" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_dashboard.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_gallery.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_login_.xml" value="0.25" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_map_pasajero.xml" value="0.121875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_pasajero_.xml" value="0.23854166666666668" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_register_fragment.xml" value="0.22" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/fragment_seleccion_fragment.xml" value="0.23854166666666668" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/login_fragment.xml" value="0.13333333333333333" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/nav_header_main.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/passenger_activity.xml" value="0.1" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/passenger_fragment.xml" value="0.15" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/passenger_map_fragment.xml" value="0.11614583333333334" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/register_conductor.xml" value="0.25" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/layout/register_user.xml" value="0.33" />
+        <entry key="..\:/AppMoviles/Laboratorio6/ProyectoFinalApp30Firebase/app/src/main/res/menu/bottom_nav_menu.xml" value="0.309375" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/activity_splash_screen.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_activity.xml" value="0.26037735849056604" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_fragment.xml" value="0.2234375" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/driver_map_fragment.xml" value="0.1018867924528302" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/login_fragment.xml" value="0.371875" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/passenger_activity.xml" value="0.1" />
+        <entry key="..\:/AppMoviles/Laboratorio7/ProyectoFinalApp40Maps/app/src/main/res/layout/passenger_map_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/passengerFragment">
+    <fragment
+        android:id="@+id/passengerFragment"
+        android:name="com.example.ProyectoFinalApp30Firebase.user.PassengerFragment"
+        android:label="passenger_fragment"
+        tools:layout="@layout/passenger_fragment" >
+        <action
+            android:id="@+id/action_passengerFragment_to_passengerMapFragment"
+            app:destination="@id/passengerMapFragment" />
+        <action
+            android:id="@+id/action_passengerFragment_to_commentsFragment"
+            app:destination="@id/commentsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/passengerMapFragment"
+        android:name="com.example.ProyectoFinalApp30Firebase.user.options.PassengerMapActivity"
+        android:label="passenger_map_fragment"
+        tools:layout="@layout/passenger_map_fragment" >
+        <action
+            android:id="@+id/action_passengerMapFragment_to_passengerFragment"
+            app:destination="@id/passengerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/commentsFragment"
+        android:name="com.example.ProyectoFinalApp30Firebase.user.options.CommentsFragment"
+        android:label="comments_fragment"
+        tools:layout="@layout/comments_fragment" >
+        <action
+            android:id="@+id/action_commentsFragment_to_passengerFragment"
+            app:destination="@id/passengerFragment" />
+        <action
+            android:id="@+id/action_commentsFragment_to_commentsAddFragment"
+            app:destination="@id/commentsAddFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/commentsAddFragment"
+        android:name="com.example.ProyectoFinalApp30Firebase.user.options.CommentsAddFragment"
+        android:label="comments_add_fragment"
+        tools:layout="@layout/comments_add_fragment" >
+        <action
+            android:id="@+id/action_commentsAddFragment_to_commentsFragment"
+            app:destination="@id/commentsFragment" />
+    </fragment>
+</navigation>
